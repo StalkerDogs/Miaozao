@@ -40,7 +40,8 @@ Primeiro, você precisa **instalar o `uv`** em seu sistema, executando este coma
 * **`uv add dotenv`**: **Instalar** o pacote `dotenv` no seu ambiente virtual ativo.
 * **`uv sync`**: **Sincronizar** as dependências do projeto, garantindo que tudo esteja conforme o planejado.
 
-##LINK DE INSTALAÇÃO
+
+LINK PARA INSTALAR PELO TERMINAL
 
 ```bash
 curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
