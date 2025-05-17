@@ -97,6 +97,10 @@ Para uma abordagem mais segura e eficiente, especialmente em Linux, recomendo o 
 
 Primeiro, você precisa **instalar o `uv`** em seu sistema, executando este comando no terminal:
 
+```bash
+curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
+```
+
 ## Esses comandos vão:
 
 * **`uv init`**: **Inicializar** um novo projeto `uv` no diretório atual.
@@ -105,13 +109,5 @@ Primeiro, você precisa **instalar o `uv`** em seu sistema, executando este coma
 * **`uv add google-genai`**: **Instalar** o pacote `google-genai` no seu ambiente virtual ativo.
 * **`uv add dotenv`**: **Instalar** o pacote `dotenv` no seu ambiente virtual ativo.
 * **`uv sync`**: **Sincronizar** as dependências do projeto, garantindo que tudo esteja conforme o planejado.
-
-
-LINK PARA INSTALAR PELO TERMINAL
-
-```bash
-curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
-```
-
 
 
