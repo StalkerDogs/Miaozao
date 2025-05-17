@@ -13,9 +13,6 @@ Lembrando o projeto alura não da suporte a usuários de Linux, e pode ocorrer c
 
 **ATENÇÃO:** O uso de `--break-system-packages` pode comprometer a estabilidade do seu sistema operacional!
 
-Conforme a imagem abaixo destaca:
-
-![Captura de tela de 2025-05-16 10-06-08.png](Captura%20de%20tela%20de%2025-05-16%2010-06-08.png)
 
 **NÃO FAÇA ISSO, A MENOS QUE VOCÊ SAIBA EXATAMENTE O QUE ESTÁ FAZENDO E ESTEJA DISPOSTO A ARRISCAR QUEBRAR SEU SISTEMA OPERACIONAL.**
 
