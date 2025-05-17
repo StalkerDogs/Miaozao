@@ -69,7 +69,7 @@ miauzao-ai/
 
 
 ```
-# Guia de Instalação Python para Ubuntu (com `uv`)
+# Guia de Instalação de pacotes Python para Ubuntu (com `uv`)
 
 Olá a todos!
 
