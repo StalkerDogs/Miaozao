@@ -1,4 +1,4 @@
-# Guia de Instalação de gerenciador para pacotes Python para Ubuntu (com `uv`)
+# Guia de Instalação Python para Ubuntu (com `uv`)
 
 Olá a todos!
 
@@ -27,12 +27,11 @@ A melhor prática é sempre utilizar **ambientes virtuais** para seus projetos P
 
 Para uma abordagem mais segura e eficiente, especialmente em Linux, recomendo o uso do **`uv`**. Ele é uma **ferramenta** rápida e poderosa para gerenciamento de pacotes e ambientes virtuais Python, atuando como o **instrumento ideal** para manter suas configurações organizadas e livres de problemas.
 
+
+
 Primeiro, você precisa **instalar o `uv`** em seu sistema, executando este comando no terminal:
 
-```bash
-curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
-
-Esses comandos vão:
+## Esses comandos vão:
 
 * **`uv init`**: **Inicializar** um novo projeto `uv` no diretório atual.
 * **`uv venv`**: **Criar** um ambiente virtual isolado dentro do diretório do seu projeto (normalmente em uma pasta chamada `.venv`).
@@ -40,3 +39,10 @@ Esses comandos vão:
 * **`uv add google-genai`**: **Instalar** o pacote `google-genai` no seu ambiente virtual ativo.
 * **`uv add dotenv`**: **Instalar** o pacote `dotenv` no seu ambiente virtual ativo.
 * **`uv sync`**: **Sincronizar** as dependências do projeto, garantindo que tudo esteja conforme o planejado.
+
+###LINK DE INSTALAÇÃO
+
+```bash
+curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
+
+
