@@ -73,10 +73,7 @@ miauzao-ai/
 
 Olá a todos!
 
-Estava com alguns conflitos na instalação do Python na minha máquina Linux Ubuntu. Felizmente, um amigo, **Matheus Gabriel** (vulgo `@su3h7am` do Discord), me ajudou a entender o uso de diretórios corretos para facilitar o processo. Fica aqui meu agradecimento também ao camarada **@cfranco3133**!
-    
-Lembrando o projeto alura não da suporte a usuários de Linux, e pode ocorrer coisas após a tentativa de instalar os pacotes do python3, onde sugere muitas vezes códigos que poderiam botar em risco minha máquina como `pip install "pacote" --break-system-packages`.
-
+Estava com alguns conflitos na instalação de pacotes Python na minha máquina Linux Ubuntu. Felizmente, um amigo, **Matheus Gabriel** (vulgo `@su3h7am` do Discord), me ajudou a entender o uso de diretórios corretos para facilitar o processo. Fica aqui meu agradecimento também ao camarada **@cfranco3133**!
 
 É importante ressaltar que o projeto Alura não oferece suporte oficial a usuários de Linux, e você pode encontrar situações após tentar instalar pacotes Python 3 que sugerem comandos arriscados, como `pip install "pacote" --break-system-packages`.
 
